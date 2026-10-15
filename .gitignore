@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+
+esp32_energy_prediction_snippet.txt
